@@ -1,0 +1,25 @@
+body{
+    background-image: url("fons-heijnsbroek-xWHUndSmomU-unsplash.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+button
+{
+    border: none;
+    padding: 10px;
+    margin-bottom: 5px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    border-radius: 5px ;
+   
+}
+#increment-btn
+{ background-color: rgb(156, 57, 57);}
